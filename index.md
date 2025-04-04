@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Help Wanted
 description: Want to help me out?
 ---
